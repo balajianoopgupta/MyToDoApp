@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyToDoApp</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_a_new_item">Enter a new item</string>
+    <string name="save">Save</string>
+    <string name="your_text_is">Your text is.....</string>
+</resources>
